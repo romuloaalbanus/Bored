@@ -54,7 +54,11 @@ class Cards extends React.Component {
           transform: "translate(-50%,-50%)",
         }}
       >
-        <Card border="secondary" style={{ width: "18rem" }}>
+        <Card
+          className="shadow-lg p-0 mb-0 bg-body rounded"
+          border="secondary"
+          style={{ width: "18rem" }}
+        >
           <Card.Header>{this.state.type}</Card.Header>
           <Card.Body>
             <Card.Title>

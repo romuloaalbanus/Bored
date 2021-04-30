@@ -8,8 +8,8 @@ import DehazeIcon from "@material-ui/icons/Dehaze";
 export default function NavBottom() {
   return (
     <div>
-      <nav className="navbar fixed-bottom navbar-light bg-light">
-        <div className="container-fluid d-flex">
+      <nav className="navbar fixed-bottom navbar-light bg-light d-flex justify-content-center">
+        <div className="d-flex justify-content-center">
           <Link to="/ActivityList" type="button" className="btn btn-light">
             <DehazeIcon />
             <br />
