@@ -7,4 +7,5 @@ Plan your next activity by choosing the number of participants, activity type an
 
 Check the links:
 **[BORED](https://bored-project.netlify.app/)**
+
 [Presentation](https://www.canva.com/design/DAEdEqRxoBo/qgyawBIebRtM6QQePIrMtA/view?utm_content=DAEdEqRxoBo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
