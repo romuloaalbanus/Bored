@@ -62,6 +62,7 @@ class Cards extends React.Component {
             </Card.Title>
             <Card.Text>
               <span>number of participants: {this.state.participants}</span>
+              <br />
               <span>
                 price:{" "}
                 {this.state.price === 0

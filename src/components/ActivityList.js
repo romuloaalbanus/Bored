@@ -18,7 +18,7 @@ function ActivityList() {
       className="container-fluid d-flex flex-column align-items-center"
       style={{
         position: "fixed",
-        top: "50%",
+        top: "60%",
         left: "50%",
         transform: "translate(-50%,-50%)",
       }}

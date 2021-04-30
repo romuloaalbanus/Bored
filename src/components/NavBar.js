@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Logo from "../logo.png";
 
 export default function NavBar() {
   return (
@@ -7,8 +8,7 @@ export default function NavBar() {
       <nav className="navbar fixed-top navbar-light bg-light">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            <img src="/public/logo192.png" alt="" width="30" height="24" />
-            BORED
+            <img src={Logo} alt="" width="23" height="26" /> BORED
           </Link>
         </div>
       </nav>
